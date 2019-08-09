@@ -29,3 +29,8 @@ Down the line we hope that the bootcamp can be an experience which inspires the 
 We are open to all students within the field of law, busienss and economics and technology. Our primary focus groups are those students studying at Stockholm University, Uppsala University, the Royal Institute of Technology as well as Stockholm Business School. 
 
 If you have an interest in developing your skills in interdisciplinary teams while solving real issues faces by the society, and have a ton of fun you are welcomed with you application today. 
+
+### Partnerships
+
+We are currently looking for partners for the bootcamp. 
+If you are interested in our available packages, do not hesitate to reach out to us. 
