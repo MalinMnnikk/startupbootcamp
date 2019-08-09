@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Stockholm Startup Bootcamp
 
-You can use the [editor on GitHub](https://github.com/MalinMnnikk/startupbootcamp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Our Mission
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Foster interdisciplinary innovation at university level together with industry entities and government branches. 
 
-### Markdown
+## The Bootcamp
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to a weekend-long bootcamp where all-star student teams are faced with a challenge within the public or private sector related to digitalisation. 
 
-```markdown
-Syntax highlighted code block
+### What
 
-# Header 1
-## Header 2
-### Header 3
+During the weekend-long bootcamp the attendees are teamed up and faced with a challenge from the public or private sector. The challenges range anywhere from the UN sustainability goals, to providing smart publicservice for citizens in Sweden. 
 
-- Bulleted
-- List
+We are inspired by movements within Legal Tech, Design Thinking, RegTech and FinTech. Our goal is to provide an opportunity for students to early on get hands-on experience in working together in diverse teams, developing a sence of design thinking within their fields and have fun in the process of coming up with real solutions for the society. 
 
-1. Numbered
-2. List
+We have modeled the bootcamp after the [Stanford Startup Bootcamp](https://law.stanford.edu/event/startup-bootcamp-for-ethical-and-sustainable-development/) in California, and [Legal Tech Lab](https://jura.ku.dk/english/digitalisationhub/research/legal-tech-lab/) in Copenhagen which has had a  success in bringing students from different fields together to learn and gain realworld experience together. We are also inspired by the Stanford Legal Desing Lab, as well as other entities who share our mission statement. 
 
-**Bold** and _Italic_ and `Code` text
+### Why
 
-[Link](url) and ![Image](src)
-```
+On a regular basis we are hit by news that students today are more isolated than ever, yet still that the workforce today and increasingly in the future need to be able to work in different, all start, with the User in the center. The education at the Universities today do not support the industry requirements, and the skillgap is ever increasing. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In order to bring students together, while providing experiences needed in their upcoming worklife, we created the bootcamp. An opportunity to learn, share knowledge and make something valuable. 
 
-### Jekyll Themes
+Down the line we hope that the bootcamp can be an experience which inspires the students to work in diverse teams and be able to collaborate with people form different fields. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MalinMnnikk/startupbootcamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Who
 
-### Support or Contact
+We are open to all students within the field of law, busienss and economics and technology. Our primary focus groups are those students studying at Stockholm University, Uppsala University, the Royal Institute of Technology as well as Stockholm Business School. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have an interest in developing your skills in interdisciplinary teams while solving real issues faces by the society, and have a ton of fun you are welcomed with you application today. 
